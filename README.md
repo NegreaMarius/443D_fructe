@@ -1,2 +1,1 @@
-# 443D_fructe
-Site cu informatii despre fructe
+Creanga lui Lorin Șpan
